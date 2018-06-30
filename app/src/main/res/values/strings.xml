@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Quiz-App</string>
+    <string name="action_settings">Settings</string>
+
+    ?>These are the Questions
+    I've written them here to avoid hard coding in my XML file -->
+
+    <string name="Q1">How many bitcoins will ever be made?</string>
+    <string name="Q2">What is the technology behind Crypto Currency?</string>
+    <string name="Q3">Check All that are not Crypto Currency.</string>
+    <string name="Q4">Which year did Crypto came to reality?</string>
+    <string name="Q5">Which of the following is not true about crypto currency</string>
+    <string name="Q6">What is crypto currency mining?</string>
+    <string name="Q7">Who is governing crypto currencies?</string>
+    <string name="Q8">How do we store Bitcoins?</string>
+    <string name="Q9">Bitcoins have head office?</string>
+    <string name="Q10">Crypto Currency can be transferred internationally instantly and with very less fee</string>
+    <string name="Q11">Blockchain can be used in all of the following except?</string>
+
+
+
+    <string name="Header">Answer All the Questions Correctly</string>
+
+    <string name="btnSubmit">Submit</string>
+    <string name="_50m">50 Million</string>
+    <string name="_41_million">41 Million</string>
+    <string name="_21_million">21 Million</string>
+    <string name="type_here">type here</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="us_dollar">US Dollar</string>
+    <string name="dascoin">Dascoin</string>
+    <string name="kenyan_shillings">Kenyan Shillings</string>
+    <string name="_2000">2000</string>
+    <string name="_2009">2009</string>
+    <string name="_1996">1996</string>
+    <string name="_2017">2017</string>
+    <string name="current_banking_system">Crypto Currency is doing away with the current banking system</string>
+    <string name="decentralize">Crypto currency are decentralised</string>
+    <string name="darkweb">They are only suitable for dark web</string>
+    <string name="old_tech">They use old technology that is very easy to manipulate</string>
+    <string name="digging">Digging solid crypto currencies from rocks</string>
+    <string name="minerals">Going dip under the sea to find minerals for making crypto currency</string>
+    <string name="all_of_the_above">All of the above</string>
+    <string name="none_of_the_above">None of the above</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="learnmore">Learn More about cryptos|+254792799958</string>
+    <string name="byme">By:Symons the Code Master|somborisymonss@gmail.com</string>
+
+</resources>
