@@ -8,7 +8,7 @@
     <string name="Q1">How many bitcoins will ever be made?</string>
     <string name="Q2">What is the technology behind Crypto Currency?</string>
     <string name="Q3">Check All that are not Crypto Currency.</string>
-    <string name="Q4">Which year did Crypto came to reality?</string>
+    <string name="Q4">When Did Bitcoin come into play?</string>
     <string name="Q5">Which of the following is not true about crypto currency</string>
     <string name="Q6">What is crypto currency mining?</string>
     <string name="Q7">Who is governing crypto currencies?</string>
@@ -20,7 +20,7 @@
 
 
     <string name="Header">Answer All the Questions Correctly</string>
-
+    <string name="q2ans">Block Chain</string>
     <string name="btnSubmit">Submit</string>
     <string name="_50m">50 Million</string>
     <string name="_41_million">41 Million</string>
