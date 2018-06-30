@@ -42,6 +42,21 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+    //Question2
+    public void quiz2(){
+        RadioGroup answers =  findViewById(R.id.ans1);
+        switch (answers.getCheckedRadioButtonId()) {
+            case R.id.q1ans:
+                findViewById(R.id.q1ans);
+                //calculate();
+                q1points=1;
+                break;
+            default:
+                findViewById(R.id.q1ans);
+
+        }
+    }
+
 
 
 
