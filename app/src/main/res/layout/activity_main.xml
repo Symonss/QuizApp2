@@ -129,6 +129,7 @@
                 android:text="@string/Q4" />
 
             <RadioGroup
+                android:id="@+id/ans4"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content">
 
@@ -138,6 +139,7 @@
                     android:text="@string/_2000" />
 
                 <RadioButton
+                    android:id="@+id/q4ans"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/_2009" />
@@ -179,11 +181,13 @@
                 android:text="@string/decentralize" />
 
             <CheckBox
+                android:id="@+id/q5ans1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/darkweb" />
 
             <CheckBox
+                android:id="@+id/q5ans2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/old_tech" />
@@ -201,6 +205,7 @@
                 android:text="@string/Q6" />
 
             <RadioGroup
+                android:id="@+id/ans6"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content">
 
@@ -215,11 +220,13 @@
                     android:text="@string/minerals" />
 
                 <RadioButton
+
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/all_of_the_above" />
 
                 <RadioButton
+                    android:id="@+id/q6ans"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/none_of_the_above" />
@@ -238,10 +245,12 @@
                 android:text="@string/Q9" />
 
             <RadioGroup
+                android:id="@+id/ans7"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content">
 
                 <RadioButton
+                    android:id="@+id/q7ans"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/no" />

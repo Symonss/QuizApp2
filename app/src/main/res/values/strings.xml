@@ -18,7 +18,6 @@
     <string name="Q11">Blockchain can be used in all of the following except?</string>
 
 
-
     <string name="Header">Answer All the Questions Correctly</string>
     <string name="q2ans">Block Chain</string>
     <string name="btnSubmit">Submit Answers</string>
@@ -46,5 +45,18 @@
     <string name="yes">Yes</string>
     <string name="learnmore">Learn More about cryptos|+254792799958</string>
     <string name="byme">By:Symons the Code Master|somborisymonss@gmail.com</string>
+    <string name="version">Version 1.0</string>
+    <string name="description">This is me during mUzima hackathon</string>
+    <string name="alc">ALC</string>
+    <string name="Aauthor">Author : Symons Ombori</string>
+    <string name="aboutdes">This is an app that asks questions about crypto currency.
+    I made it as a project during the ALC with Google Africa Scholarship 2018.
+        Feel free to get its source codes from git hub.Also lets talk in case
+        you want to learn more about crypto currencies</string>
+
+    <string name="more_info">More Info:</string>
+    <string name="linkdn"><a href="http://www.linkedin.com/in/symonsss">More about me(Linkedin)</a></string>
+    <string name="githublink"><a href="http://github.com/Symonss/QuizApp2">Project Source Code from Github</a></string>
+    <string name="contact">+254792799958|somborisymonss@gmail.com</string>
 
 </resources>
