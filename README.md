@@ -7,7 +7,7 @@ This project has 2 java classes
 1. AboutActivity
 2. MainActivity
 
-[<img src="https://images.indianexpress.com/2017/01/google-drive-logo-759.jpg" width="400" height="100">](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQtJuUxmTCHoOU8a7XMUoEXE793FzdaWu5NcR3kCvACm2yGAsTRw)
+[<img src="https://images.indianexpress.com/2017/01/google-drive-logo-759.jpg" width="400" height="100">](https://drive.google.com/open?id=1B9hZzkQ5hq4BDM3YdV2iKG_UwZzAmUlB)
 
 # Screen Shots
 
