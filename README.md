@@ -7,6 +7,7 @@ You can find the app here [https://drive.google.com/open?id=1B9hZzkQ5hq4BDM3YdV2
 This project has 2 java classes
 1. AboutActivity
 2. MainActivity
+The logo bellow takes you to the app
 
 [<img src="https://images.indianexpress.com/2017/01/google-drive-logo-759.jpg" width="400" height="100">](https://drive.google.com/open?id=1B9hZzkQ5hq4BDM3YdV2iKG_UwZzAmUlB)
 
