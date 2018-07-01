@@ -1,6 +1,7 @@
 # QuizApp2
 This is Udacity quiz project.
 It consist of questions and after answering you can see the amount you have score.
+You can find the app here [https://drive.google.com/open?id=1B9hZzkQ5hq4BDM3YdV2iKG_UwZzAmUlB]
 
 # Classes
 This project has 2 java classes
@@ -18,3 +19,5 @@ This project has 2 java classes
 <img src="Screen Sorts/three.jpeg" width="200" height="400"/>
 
 <img src="Screen Sorts/four.jpeg" width="200" height="400"/>
+
+# Author : SYMONS ONYANGO OMBORI [![LinkedIn](http://www.fftimes.com/sites/all/modules/socialmedia/icons/levelten/glossy/32x32/linkedin.png)](http://www.linkedin.com/in/symonsss)
