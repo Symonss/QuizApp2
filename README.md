@@ -11,10 +11,10 @@ This project has 2 java classes
 
 # Screen Shots
 
-<img src="Screen_Sorts/one.png" width="200" height="400"/>
+<img src="Screen Sorts/one.jpeg" width="200" height="400"/>
 
-<img src="Screen_Sorts/two.png" width="200" height="400"/>
+<img src="Screen Sorts/two.jpeg" width="200" height="400"/>
 
-<img src="Screen_Sorts/three.png" width="200" height="400"/>
+<img src="Screen Sorts/three.jpeg" width="200" height="400"/>
 
-<img src="Screen_Sorts/four.jpg" width="200" height="400"/>
+<img src="Screen Sorts/four.jpeg" width="200" height="400"/>
