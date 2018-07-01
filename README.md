@@ -1,5 +1,5 @@
 # QuizApp2
-This is Udacity quiz project.
+This is ALC with google Africa Scholarship on Udacity quiz project.
 It consist of questions and after answering you can see the amount you have score.
 You can find the app here [https://drive.google.com/open?id=1B9hZzkQ5hq4BDM3YdV2iKG_UwZzAmUlB]
 
